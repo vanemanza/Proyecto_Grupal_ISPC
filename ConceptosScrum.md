@@ -33,6 +33,7 @@ Nota: El concepto principal de definicion de Planificacion de Sprint se extrajo 
 
 ##
 ##SPRINT- CEREMONIAS (NUMERO 11)
+
 **Ceremonias que se realizan a lo largo del proyecto:**
 
 ● **_Sprint Planning Meeting:_** (reunión de planificación del sprint): Se produce al iniciar cada
