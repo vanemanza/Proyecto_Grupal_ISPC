@@ -4,18 +4,17 @@ Archivo para subir las definiciones que hemos marcado como Issues en el reposito
 Template:
 ## Título del Issue
 Descripción
-#10 ISSUE
-##  PLANIFICACION DEL SPRINT
+
+##  PLANIFICACION DEL SPRINT (NUMERO 10)
+
 **Definición**
 La planificación de sprints es un evento en scrum que inicia el sprint. El objetivo de la planificación de sprints es definir lo que se puede entregar en el sprint y cómo se conseguirá ese trabajo. La planificación de sprints se hace en colaboración con todo el equipo de scrum.
 Consta de dos segmentos:
 _Segmento uno:_ 
-
 -  El Product Owner presenta el Backlog de Producto con mas alta prioridad.
 - El equipo selecciona los items del Backlog de Producto con los que se pueden comprometer.
 
 _Segmento dos:_
-
 - Decidir la estrategia para alcanzar el objetivo del sprint (diseño).
 - Las tareas son creadas.
 - Se estiman las tareas y el backlog de sprint.
@@ -31,9 +30,7 @@ En esta etapa deben estar presentes:
 Nota: El concepto principal de definicion de Planificacion de Sprint se extrajo de [Definicion de Planificacion de Sprint](https://www.ariadgroup.com/es/blog/todo-sobre-scrum-agile-metodologia/los-componentes-ceremonias-scrum-todos-detalles 
 
 
-##
-##SPRINT- CEREMONIAS (NUMERO 11)
-
+## SPRINT - CEREMONIAS (NUMERO 11)
 **Ceremonias que se realizan a lo largo del proyecto:**
 
 ● **_Sprint Planning Meeting:_** (reunión de planificación del sprint): Se produce al iniciar cada
