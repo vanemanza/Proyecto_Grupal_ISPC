@@ -9,11 +9,11 @@ Descripción
 Es un marco de trabajo a través del cual las personas pueden abordar problemas complejos adaptativos, a la vez que se entregan productos de forma eficiente y creativa con el máximo valor. SCRUM emplea un enfoque iterativo e incremental para optimizar la gestion de proyectos y practicas de desarrollo. En los equipos de SCRUM en vez de hacer una sola cosa a la vez, los integrantes hacen la mayor parte de el tiempo un poco de todo.
 
 ## Pilares
-Transparencia: los aspectos significativos del proceso deben ser visibles para todos aquellos que son responsables del resultado. La transparencia requiere que dichos aspectos sean definidos en base a un estándar común, de tal modo que los observadores compartan un entendimiento común de lo que se están viendo.
+●**_Transparencia:**_ los aspectos significativos del proceso deben ser visibles para todos aquellos que son responsables del resultado. La transparencia requiere que dichos aspectos sean definidos en base a un estándar común, de tal modo que los observadores compartan un entendimiento común de lo que se están viendo.
 
-Inspección: Los usuarios de Scrum deben inspeccionar frecuentemente los artefactos de Scrum y el progreso hacia un objetivo para detectar variaciones indeseadas. Su inspección no debe ser tan frecuente como para que pueda interferir en el trabajo. Son más beneficiosas cuando se realizan de forma diligente por inspectores expertos en el mismo lugar de trabajo.
+●**_Inspección:**_ Los usuarios de Scrum deben inspeccionar frecuentemente los artefactos de Scrum y el progreso hacia un objetivo para detectar variaciones indeseadas. Su inspección no debe ser tan frecuente como para que pueda interferir en el trabajo. Son más beneficiosas cuando se realizan de forma diligente por inspectores expertos en el mismo lugar de trabajo.
 
-Adaptación: Si un inspector determina que uno o más aspectos de un proceso se desvían de los límites aceptables y que el producto resultante será inaceptable, el proceso o el material que está siendo procesado deben ajustarse cuanto antes para minimizar desviaciones mayores.
+●**_Adaptación:**_ Si un inspector determina que uno o más aspectos de un proceso se desvían de los límites aceptables y que el producto resultante será inaceptable, el proceso o el material que está siendo procesado deben ajustarse cuanto antes para minimizar desviaciones mayores.
 
 ##  PLANIFICACION DEL SPRINT (NUMERO 10)
 
@@ -69,10 +69,10 @@ _________________________________________
 Git es un sistema de control de versiones (VCS), es decir una herramienta de software que ayuda a los equipos desarroladores a gestionar los cambios en el código fuente a lo largo del tiempo. Además de ser distribuido, gratuito y de código abierto fue diseñado para manejar desde proyectos pequeños a muy grandes, con velocidad y eficiencia.
 
 Características
-•Nos permite conocer los cambios realizados en los programas o software que vamos desarrollando con el paso del tiempo. Administra las distintas versiones.
-•Nace como necesidad de control para el Kernel de Linux. 
-•Coordinar el trabajo entre los diferentes desarrolladores del equipo.
-•Repositorios Locales y Remotos.
+●Nos permite conocer los cambios realizados en los programas o software que vamos desarrollando con el paso del tiempo. Administra las distintas versiones.
+●Nace como necesidad de control para el Kernel de Linux. 
+●Coordinar el trabajo entre los diferentes desarrolladores del equipo.
+●Repositorios Locales y Remotos.
 
 ## Git - Ventajas (NUMERO 17)
 • Sistema distribuido, que permite el trabajo incluso sin conexión.
