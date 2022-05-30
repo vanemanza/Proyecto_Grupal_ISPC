@@ -6,7 +6,7 @@ Template:
 Descripción
 
 ## SCRUM - Definicion (NUMERO 6)
-Es un marco de trabajo a través del cual las personas pueden abordar problemas complejos adaptativos, a la vez que se entregan productos de forma eficiente y creativa con el máximo valor. Scrum emplea un enfoque iterativo e incremental para optimizar la gestion de proyectos y practicas de desarrollo. En los equipos de SCRUM en vez de hacer una sola cosa a la vez, los integrantes hacen la mayor parte de el tiempo un poco de todo.
+Es un marco de trabajo a través del cual las personas pueden abordar problemas complejos adaptativos, a la vez que se entregan productos de forma eficiente y creativa con el máximo valor. SCRUM emplea un enfoque iterativo e incremental para optimizar la gestion de proyectos y practicas de desarrollo. En los equipos de SCRUM en vez de hacer una sola cosa a la vez, los integrantes hacen la mayor parte de el tiempo un poco de todo.
 
 ## Pilares
 Transparencia: los aspectos significativos del proceso deben ser visibles para todos aquellos que son responsables del resultado. La transparencia requiere que dichos aspectos sean definidos en base a un estándar común, de tal modo que los observadores compartan un entendimiento común de lo que se están viendo.
