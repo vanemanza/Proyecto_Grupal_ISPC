@@ -8,7 +8,7 @@ Descripción
 ## SCRUM - Definicion (NUMERO 6)
 Es un marco de trabajo a través del cual las personas pueden abordar problemas complejos adaptativos, a la vez que se entregan productos de forma eficiente y creativa con el máximo valor. SCRUM emplea un enfoque iterativo e incremental para optimizar la gestion de proyectos y practicas de desarrollo. En los equipos de SCRUM en vez de hacer una sola cosa a la vez, los integrantes hacen la mayor parte de el tiempo un poco de todo.
 
-## Pilares
+Pilares
 ● **_Transparencia:_** los aspectos significativos del proceso deben ser visibles para todos aquellos que son responsables del resultado. La transparencia requiere que dichos aspectos sean definidos en base a un estándar común, de tal modo que los observadores compartan un entendimiento común de lo que se están viendo.
 
 ● **_Inspección:_** Los usuarios de Scrum deben inspeccionar frecuentemente los artefactos de Scrum y el progreso hacia un objetivo para detectar variaciones indeseadas. Su inspección no debe ser tan frecuente como para que pueda interferir en el trabajo. Son más beneficiosas cuando se realizan de forma diligente por inspectores expertos en el mismo lugar de trabajo.
@@ -68,10 +68,13 @@ _________________________________________
 ## Git - Concepto (NUMERO 16)
 Git es un sistema de control de versiones (VCS), es decir una herramienta de software que ayuda a los equipos desarroladores a gestionar los cambios en el código fuente a lo largo del tiempo. Además de ser distribuido, gratuito y de código abierto fue diseñado para manejar desde proyectos pequeños a muy grandes, con velocidad y eficiencia.
 
-Características
+Características:
 ●Nos permite conocer los cambios realizados en los programas o software que vamos desarrollando con el paso del tiempo. Administra las distintas versiones.
+
 ●Nace como necesidad de control para el Kernel de Linux. 
+
 ●Coordinar el trabajo entre los diferentes desarrolladores del equipo.
+
 ●Repositorios Locales y Remotos.
 
 ## Git - Ventajas (NUMERO 17)
