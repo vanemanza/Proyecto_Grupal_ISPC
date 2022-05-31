@@ -66,7 +66,7 @@ Nota: Se extrajo informacion extra de: [Ariad: Las ceremonias de Scrum, todos lo
 
 
 
-##**Roles - equipo SCRUM** (NUMERO 15)
+##Roles - equipo SCRUM (NUMERO 15)
 
 La unidad fundamental de Scrum es un equipo de personas (Scrum Team). Cada equipo consiste en un Scrum Master, un propietario del producto (Product Owner)  y desarrolladores (Developers).
 
@@ -74,14 +74,14 @@ El equipo debe ser suficientemente pequeño como para ser ágil y grande como pa
 
 El equipo es responsable de todas las actividades relacionadas al producto desde la colaboración con las partes interesadas, verificación, mantenimiento, experimentación, desarrollo y cualquier otra cosa que pueda ser requerida.
 
-#####**Desarrolladores**
+######Desarrolladores
 Los desarrolladores son aquellos que producen cada uno de los incrementos de cada sprint y siempre son responsables de:
 
 ●       Crear un plan para el Sprint , la pila de Sprint (Sprint Backlog).
 ●       Asegurar la calidad mediante la adopción de una Definición de Terminado.
 ●       Adaptar el Plan de Cada Día para conseguir el Objetivo del Sprint (Sprint Meta).
 
-#####**Propietario del Producto**
+######Propietario del Producto
 El Propietario del Producto es el responsable de Gestionar Efectivamente la Pila de Producto (Product Backlog), Lo que incluye:
 
 ●       Desarrollar y Comunicar el objetivo m del Producto (Meta del producto).
@@ -90,7 +90,7 @@ El Propietario del Producto es el responsable de Gestionar Efectivamente la Pila
 ●       Asegurar que la pila de producto sea transparente, visible y comprensible.
 Es importante resaltar que el propietario del producto es una única persona, y por tanto, se deben respetar sus decisiones. Estas, deben ser reflejadas en el contenido y orden en la pila de producto, como así también en el incremento y la revisión del Sprint .
 
-######**Scrum Master**
+#######Scrum Master
 El Scrum Master es el encargado de asegurar que la metodología se lleve a cabo tal y como está definida. Esto se logra haciendo que cada persona del equipo entienda la teoría y práctica de la metodología.
 
 La persona con el rol de Scrum Master sirve al equipo de Scrum de varias formas:
