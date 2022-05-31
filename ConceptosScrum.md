@@ -74,7 +74,7 @@ La Pila de Producto (Product Backlog) es una lista ordenada. Cada una de las ent
 
 La pila de producto puede incluir ítems para explorar las necesidades del cliente, analizar opciones técnicas, y otros ítems de trabajo tales como la corrección de errores (bugs) o la  configuración del entorno. Todo lo que esté en la pila de producto representa o aporta a conseguir el objetivo del producto (Product Goal) y este último es el objetivo que el equipo tiene que conseguir cumplir a largo plazo.
 
-![Fuente: Tipos de elementos en la pila de producto](https://argentinaprograma.inti.gob.ar/pluginfile.php/259/mod_page/content/14/Recurso%2047.png)
+![Fuente: Tipos de elementos en la pila de producto]([https://argentinaprograma.inti.gob.ar/pluginfile.php/259/mod_page/content/14/Recurso%2047.png](https://argentinaprograma.inti.gob.ar/pluginfile.php/1/core_h5p/content/333/images/file-611ae3baec555.png))
 
 **_Pila de Sprint_**
 
