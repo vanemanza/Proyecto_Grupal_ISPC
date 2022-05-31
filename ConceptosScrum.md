@@ -1,11 +1,20 @@
 # Conceptos Scrum
-Archivo para subir las definiciones que hemos marcado como Issues en el repositorio, para así evitar la modificación del README.
 
-Template:
-## Título del Issue
-Descripción
+## Archivo para subir las definiciones que hemos marcado como Issues en el repositorio, para así evitar la modificación del README.
 
-## SCRUM - Definicion (NUMERO 6)
+### CICLO DE VIDA DE UN SISTEMA (NUMERO 3)
+
+- Los sistemas informáticos poseen un ciclo de vida que deben cumplir, y son esenciales para las organizaciones, puesto que su óptimo funcionamiento depende de los datos y respaldos de información.
+- Los ciclos de vida, son las fases por las que debe pasar un sistema informático, en cuanto al análisis y el diseño para mantener la estructura y el funcionamiento de otro sistema desarrollado, tanto web como empresarial. 
+- Las fases son siete y son las siguientes:
+  - Fase de planificación: El primer paso es diseñar para poder implementar el sistema. Implica los objetivos, la metodología, el alcance que se espera con el proyecto, la designación de los roles o responsabilidades, el tiempo para cumplir las actividades, entre otros.
+  - Fase de análisis: Cuando el equipo de proyecto pasa la planificación y metodología que se pretende emplear, es cuando comienza el análisis. Aquí se concreta lo que es el ciclo de vida de un sistema y los requisitos necesarios para la implementación del nuevo proyecto.
+  - Fases de diseño: En esta fase se buscan las soluciones alternativas a las entradas y salidas del sistema, las cuales se evalúan y se escoge la más efectiva. Todo esto es enseñado a la parte gerencial de la empresa, de forma que estén enterados de la naturaleza del software (por ejemplo, si está basado en java, html...), características del hardware, las tareas relacionadas a tecnología que hay que realizar, entre otros. Básicamente es la parte gráfica del sistema operativo con el que interactúa el usuario.
+  - Fase de desarrollo: Esta es la fase que más repercusión tiene, puesto que es donde el proceso de transformación del sistema antiguo al sistema nuevo empieza. El cambio a partir de aquí es constante y no deja de evolucionar hasta que se termina.
+  - Fase de integración y periodo de prueba: El primero es la respuesta sobre la implementación y funcionalidad; el periodo de prueba permite evidenciar y certificar que el sistema funciona y cumple con los requisitos que el cliente había establecido.
+  - Fase de implementación: Es cuando se instala tanto el hardware como el software en el lugar correspondiente, creando las aplicaciones necesarias, realizando las pruebas y capacitaciones finales. 
+
+### SCRUM - Definicion (NUMERO 6)
 Es un marco de trabajo a través del cual las personas pueden abordar problemas complejos adaptativos, a la vez que se entregan productos de forma eficiente y creativa con el máximo valor. SCRUM emplea un enfoque iterativo e incremental para optimizar la gestion de proyectos y practicas de desarrollo. En los equipos de SCRUM en vez de hacer una sola cosa a la vez, los integrantes hacen la mayor parte de el tiempo un poco de todo.
 
 Pilares
@@ -16,7 +25,7 @@ Pilares
 
 ● **_Adaptación:_** Si un inspector determina que uno o más aspectos de un proceso se desvían de los límites aceptables y que el producto resultante será inaceptable, el proceso o el material que está siendo procesado deben ajustarse cuanto antes para minimizar desviaciones mayores.
 
-##  PLANIFICACION DEL SPRINT (NUMERO 10)
+###  PLANIFICACION DEL SPRINT (NUMERO 10)
 
 **Definición**
 La planificación de sprints es un evento en scrum que inicia el sprint. El objetivo de la planificación de sprints es definir lo que se puede entregar en el sprint y cómo se conseguirá ese trabajo. La planificación de sprints se hace en colaboración con todo el equipo de scrum.
@@ -41,7 +50,7 @@ En esta etapa deben estar presentes:
 Nota: El concepto principal de definicion de Planificacion de Sprint se extrajo de [Definicion de Planificacion de Sprint](https://www.ariadgroup.com/es/blog/todo-sobre-scrum-agile-metodologia/los-componentes-ceremonias-scrum-todos-detalles 
 
 
-## SPRINT - CEREMONIAS (NUMERO 11)
+### SPRINT - CEREMONIAS (NUMERO 11)
 **Ceremonias que se realizan a lo largo del proyecto:**
 
 ● **_Sprint Planning Meeting:_** (reunión de planificación del sprint): Se produce al iniciar cada
@@ -66,7 +75,7 @@ Nota: Se extrajo informacion extra de: [Ariad: Las ceremonias de Scrum, todos lo
 
 
 
-## Artefactos (NUMERO 12)
+### Artefactos (NUMERO 12)
 
 **_Pila de Producto_**
 
@@ -88,7 +97,7 @@ Existe un compromiso entre el incremento y la Definición de Terminado (Definici
 
 
 
-## ROLES EN EL EQUIPO (NUMERO 15)
+### ROLES EN EL EQUIPO (NUMERO 15)
 
 La unidad fundamental de Scrum es un equipo de personas (Scrum Team). Cada equipo consiste en un Scrum Master, un propietario del producto (Product Owner)  y desarrolladores (Developers).
 
