@@ -66,6 +66,32 @@ Nota: Se extrajo informacion extra de: [Ariad: Las ceremonias de Scrum, todos lo
 
 
 
+## Artefactos (NUMERO 12)
+
+**_Pila de Producto_**
+
+La Pila de Producto (Product Backlog) es una lista ordenada. Cada una de las entradas de esta lista son posibles trabajos a seleccionarse para su realización durante una reunión de planificación de Sprint . El refinamiento de los ítems de la pila de producto es el acto de convertir esos ítems en elementos más detallados y precisos, en este proceso también se les asigna una prioridad y un “tamaño”.
+
+La pila de producto puede incluir ítems para explorar las necesidades del cliente, analizar opciones técnicas, y otros ítems de trabajo tales como la corrección de errores (bugs) o la  configuración del entorno. Todo lo que esté en la pila de producto representa o aporta a conseguir el objetivo del producto (Product Goal) y este último es el objetivo que el equipo tiene que conseguir cumplir a largo plazo.
+
+![Fuente: Tipos de elementos en la pila de producto](https://argentinaprograma.inti.gob.ar/pluginfile.php/259/mod_page/content/14/Recurso%2047.png)
+
+**_Pila de Sprint_**
+
+Este artefacto, pila de Sprint (Sprint Backlog), delimita el trabajo necesario para alcanzar determinado incremento, y sirve para marcar el avance. También sirve como herramienta de comunicación del equipo. Esto es visible para todos y representa una imagen en tiempo real del trabajo que llevan los desarrolladores para alcanzar el Objetivo del Sprint (Sprint Meta). Este último se crea durante la reunión de planificación de Sprint y a lo largo de todo el ciclo, los desarrolladores lo tienen presente.
+
+
+**_Incremento_**
+Un incremento de producto es un paso concreto que acerca el desarrollo al objetivo del producto. Cada incremento agrega valor al incremento anterior y bajo un proceso de verificación, se asegura que todos los incrementos trabajen bien juntos.
+
+Existe un compromiso entre el incremento y la Definición de Terminado (Definición de Hecho). Esta definición es una descripción formal del estado que debe alcanzar el incremento para cumplir con el nivel de calidad requerido para el producto. Si por alguna razón algún ítem de la pila de producto no cumple con la definición de terminado, no debe formar parte del entregable y ni siquiera ser presentado en la reunión de revisión de Sprint. En lugar de esto, debe volver a la pila de producto para ser considerado en un futuro.
+
+
+
+
+
+
+
 ## ROLES EN EL EQUIPO (NUMERO 15)
 
 La unidad fundamental de Scrum es un equipo de personas (Scrum Team). Cada equipo consiste en un Scrum Master, un propietario del producto (Product Owner)  y desarrolladores (Developers).
