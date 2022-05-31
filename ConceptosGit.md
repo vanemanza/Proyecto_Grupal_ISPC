@@ -8,7 +8,7 @@ Git se puede ver como un set de herramientas muy completo, pero para un manejo b
 
 ● **_git init_** es el comando para inicializar un directorio como repositorio Git, se ejecuta dentro del directorio del proyecto, y como resultado crea un subdirectorio. Git que contiene todos los archivos para poder realizar el seguimiento de los cambios, etiquetas, etc.
 
-● **_git add_** archivo luego de la creación, modificación o eliminación de un archivo, los cambios quedan únicamente en el área de trabajo, por lo tanto es necesario pasarlos al área de preparación mediante el uso del comando git add , para que sea incluido dentro de la siguiente Confirmación cometer.
+● **_git add_** 'archivo' luego de la creación, modificación o eliminación de un archivo, los cambios quedan únicamente en el área de trabajo, por lo tanto es necesario pasarlos al área de preparación mediante el uso del comando git add , para que sea incluido dentro de la siguiente Confirmación 'cometer'.
 
 ● **_git status_** es un comando que permite conocer en qué estado se encuentran los archivos.
 
