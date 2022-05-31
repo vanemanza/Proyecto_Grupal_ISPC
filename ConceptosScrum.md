@@ -80,7 +80,9 @@ El equipo es responsable de todas las actividades relacionadas al producto desde
 Los desarrolladores son aquellos que producen cada uno de los incrementos de cada sprint y siempre son responsables de:
 
 ●       Crear un plan para el Sprint , la pila de Sprint (Sprint Backlog).
+
 ●       Asegurar la calidad mediante la adopción de una Definición de Terminado.
+
 ●       Adaptar el Plan de Cada Día para conseguir el Objetivo del Sprint (Sprint Meta).
 
 
@@ -145,10 +147,14 @@ Durante la reunión de planificación de Sprint, el Scrum Master deberá desempe
 
 ●       Asegurar que al final de la reunión estén determinados los siguientes puntos:
 
-1.Los ítems de la pila de producto que se van a ejecutar
+1.Los ítems de la pila de producto que se van a ejecutar.
+
 2.El objetivo del Sprint .
+
 3.La pila de Sprint con todas las tareas estimadas.
+
 4.La duración del Sprint y la fecha de reunión de revisión.
+
 5.La definición de Terminado que determinará que el incremento está listo.
 
 
