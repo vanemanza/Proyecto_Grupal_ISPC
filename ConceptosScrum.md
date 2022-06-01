@@ -107,9 +107,9 @@ El principal objetivo del Sprint Review es obtener feedback de los Stakeholders 
 A lo largo de la Revisión del Sprint o Sprint Review participa todo el Equipo Scrum, es decir, el Product Owner, el Scrum Master, los Developers.
 El Scrum Master garantiza que el evento se realice y que los participantes comprendan su finalidad. También ejercerá su rol como facilitador, ayudando a mantener el evento dentro del bloque de tiempo.
 
-###### **_¿Qué temas deben ser discutidos en el Sprint_**
+### **_¿Qué temas deben ser discutidos en el Sprint_**
 
-### ●    Características “terminadas”
+#### ●    Características “terminadas”
 Todo el equipo Scrum expone los elementos del Product Backlog que se han “Terminado”.
 ### ●     Exposición del Incremento del producto
 Los Developers presentan el Incremento de Producto, comentan qué problemas surgieron y de qué manera los afrontaron.
