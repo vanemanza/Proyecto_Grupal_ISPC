@@ -111,13 +111,13 @@ El Scrum Master garantiza que el evento se realice y que los participantes compr
 
 #### ●    Características “terminadas”
 Todo el equipo Scrum expone los elementos del Product Backlog que se han “Terminado”.
-### ●     Exposición del Incremento del producto
+#### ●     Exposición del Incremento del producto
 Los Developers presentan el Incremento de Producto, comentan qué problemas surgieron y de qué manera los afrontaron.
-### ●     Estado actual y proyección del Backlog
+#### ●     Estado actual y proyección del Backlog
 El Product Owner habla acerca del Product Backlog en su estado actual y proyecta futuros objetivos y fechas de entrega basadas en esta nueva información.
-### ●     Debate y análisis para el Sprint Planning
+#### ●     Debate y análisis para el Sprint Planning
 Todos los participantes debaten en base al análisis de cómo está el mercado y el uso potencial del producto, sobre qué hacer a continuación. De este modo la Sprint Review proporciona información de entrada valiosa para el próximo evento: la Sprint Planning.
-### ●     Revisión del Release Plan
+#### ●     Revisión del Release Plan
 Se revisa y actualiza el Release Plan o plan de entregas del producto y los cambios que hayan podido surgir, como cambios en el presupuesto y las capacidades de el/los equipo/s.
 
 
