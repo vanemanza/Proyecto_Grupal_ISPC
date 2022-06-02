@@ -50,3 +50,19 @@ Git se puede ver como un set de herramientas muy completo, pero para un manejo b
 ● **_git pull_** funciona al inverso de git push, trayendo todos los cambios al repositorio local, pero también dejándolos disponibles directamente para su modificación o revisión en el área de trabajo. Es importante mencionar que se utiliza cuando ya se tiene un repositorio local vinculado a uno remoto, al igual que con el comando git push.
 
 ● **_git clone_** , en el caso de necesitar "bajar" un repositorio remoto de algún proyecto ya existente se puede ejecutar este comando. Genera un directorio (con el nombre del repositorio o uno especificado explícitamente) que contiene todo lo propio al proyecto, además del subdirectorio .git necesario para poder gestionar los cambios y todo lo pertinente al repositorio Git.**
+
+## Github - Herramientas (NUMERO 20)
+
+● **_issue_** , es una unidad de trabajo designada para realizar una mejora en un sistema informático. Puede  ser el arreglo de un fallo, una característica pedida, una tarea, una solicitud de documentación en específico y todo tipo de ideas o sugerencias al equipo de desarrollo. 
+
+● **_millestone_** , son categorías que se utilizan para tener un filtro más adecuado de la información. Cada milestone puede tener una fecha programada indicando el tiempo que es necesario para cumplir cierta tarea.
+
+Una unidad de trabajo o tarea, se crea completando con un título y una descripción. Si la persona es miembro del equipo **Assigness**, opcionalmente puede asignar una serie de metadatos: etiquetas **labels**, hitos **milestone**, proyecto al que pertenece o responsables encargados de cerrar la incidencia.
+Una vez creado, se asignará un número.
+
+_GitHub Milestones_ pueden ayudar a los equipos de desarrollo a:
+- planear iteraciones cortas de trabajo y organizar los issues en un plazo de tiempo.
+- hacer un seguimiento del proyecto como parte de un objetivo más amplio, como una lista trimestral de tareas pendientes, una función importante, etc. Luego, observe el progreso general de su hito en la página de hitos.
+
+
+
