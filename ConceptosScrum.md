@@ -29,26 +29,26 @@ Pilares
 
 A continuación se describen algunos de los roles más comunes dentro de un grupo de desarrollo, esto no significa que obligatoriamente deben estar o que no pueda incluir algún otro rol no especificado. La composición puede variar de acuerdo al proyecto y sus requerimientos, al presupuesto del cliente, o la especializacion de cada programador, entre otros factores. 
 
- ######Diseñador UI/UX**UX (user experience)**Esta disciplina se encarga de que el sitio sea usable y que la experiencia del usuario sea agradable. Una tarea importante en este rol es el flujo de usuario, que es la cantidad de pasos que debe seguir para realizar una tarea. Los flujos de usuario son muy importantes,si están mal diseñados el usuario se pierde y no completa la operación, al no completarla la empresa pierde dinero.
+ ##### Diseñador UI/UX**UX (user experience)**Esta disciplina se encarga de que el sitio sea usable y que la experiencia del usuario sea agradable. Una tarea importante en este rol es el flujo de usuario, que es la cantidad de pasos que debe seguir para realizar una tarea. Los flujos de usuario son muy importantes,si están mal diseñados el usuario se pierde y no completa la operación, al no completarla la empresa pierde dinero.
 
 **UI (User Interface)**Se encarga del diseño de toda la interfaz con programas como: Sketch, AdobeXD Photoshop, etc. UI está profundamente ligado con UX, podemos diseñar perfecto el flujo de usuario, pero sin algun boton es confuso puede que el el usuario no de clic y nuevamente la empresa pierde dinero.
 
-######  Web Designer O Maquetador
+#####  Web Designer O Maquetador
 Se encarga de recoger los mockups que ha diseñado el UI y llevarlos a código html y css, tal vez tenga que usar javascript para algún un efecto que no pueda lograrse con css, por lo que es recomendable que el Web Designer sepa un poco de javascript. Esta persona se encarga de llevar el diseño a código pero no está orientado a la interacción o la lógica del lado del cliente.
 
-######  Frontend Developer o Programador Frontend
+#####  Frontend Developer o Programador Frontend
 Se encarga de desarrollar toda la lógica del lado del cliente, por ejemplo: cuando entras a la web de EDteam: haces clic en el botón "ingresar", ese botón te abre un formulario donde pondrás tu usuario y contraseña, los datos se enviarán al servidor, este retornara una respuesta y según la respuesta se mostrará un mensaje u otro. Aunque usualmente el Frontend deja para el web Designer los colores, tipografías márgenes, etc, muchas veces también cumple con este rol, como dije antes, depende mucho del presupuesto.
 
-######  Backend Developer o Programador Backend
+#####  Backend Developer o Programador Backend
 Hace toda la lógica del lado del servidor, toda la seguridad está en esta parte; si tú haces seguridad en el lado del cliente, una persona con relativos conocimientos de programación podría modificar esa validación desde el inspector del navegador, por eso también se agrega validación del lado del servidor y es muchísimo más segura. El programador Backend también se encarga de comunicarse con las bases de datos, para recuperar la información que luego se le enviará al Frontend.
 
-######  DBA(Database Administrator)
+#####  DBA(Database Administrator)
 Se encarga de Diseñar las bases datos, que son grandes almacenes de información, supongamos que en EDteam tenemos 50,000 suscriptores y necesitamos guardar sus datos (nombre, apellidos, cuándo fue la última vez que iniciaron sesión, que cursos ven, etc). En una aplicación la data es fundamental porque a partir de los datos se toman las decisiones, y una base de datos bien diseñada permite que un proyecto sea escalable, por eso el DBA diseña la base de datos(incluso el lápiz y papel) antes de ponerse a escribir código. Si un proyecto crece y la base de datos está mal diseñada, habrá que cambiar muchas cosas, arrastrando en el proceso al Frontend y al Backend, terminando en un caos total. Así como el front end y el web designer se pueden juntar en un solo rol, en proyectos pequeños también suele hacerse lo mismo con el back end y el DBA, pero lo ideal es que estén separados.
 
-######  Arquitecto Cloud
+##### Arquitecto Cloud
 Analiza el proyecto para definir los requerimientos de hardware e infraestructura que se van a necesitar para que este pueda funcionar en producción, por ejemplo: Un proyecto que va a tener 10 usuarios al día no requiere mucha maquina, pero en un proyecto gigante él arquitecto sabrá qué requerimientos necesita (base de datos, almacenamiento, balanceamiento de carga, certificados ssl, etc), él arquitecto cloud diseña e implementa toda la infraestructura en cloud y luego se encarga de mandar el proyecto a producción.
 
-######  QA (Quality Assurance o Control de Calidad)
+#####  QA (Quality Assurance o Control de Calidad)
 Se encarga de hacer las pruebas necesarias durante el desarrollo del proyecto para asegurarse del control de calidad, documenta todos los procesos para que en el futuro las cosas mejoren y los errores que ocurrieron no se vuelvan a repetir. Un tester solamente prueba si algo falla y lo reporta, en cambio un QA también ve qué cosas podrían mejorarse (Aunque no estén fallando).
 
 Otros roles importantes
@@ -56,7 +56,7 @@ Hay dos profesionales que no he mencionado porque estrictamente hablando no form
 
 _Profesional en marketing digital._ No basta con que un proyecto esté bien hecho, si nadie lo conoce de nada sirve, es aquí donde entra este rol, su labor es la de promocionar el proyecto, se encarga cosas como analytics, SEO, campañas en redes sociales, campañas en buscadores, etc.
 
-######  Creador de contenidos. Un proyecto web necesita contenidos, por ejemplo:
+##### Creador de contenidos. Un proyecto web necesita contenidos, por ejemplo:
 
 _Copywriter_ que haga textos creativos que capturen, expliquen de qué se trata el proyecto y que llamen la atención, quien no ha entrado a una página y no entiende de qué se trata, esto es porque no ha habido un buen redactor.
 _Ilustradores_ que dibujen gráficos, personajes para la web, etc.
