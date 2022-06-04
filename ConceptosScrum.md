@@ -2,6 +2,56 @@
 
 ## Archivo para subir las definiciones que hemos marcado como Issues en el repositorio, para así evitar la modificación del README.
 
+### MODELOS DE DESARROLLO (NUMERO 2)
+- Se entiende por Software a la parte de un sistema que se puede codificar para ejecutarse en una computadora, como un conjunto de instrucciones, e incluye la documentación asociada para comprender, transformar y usar esa solución.
+- Los procesos para el desarrollo de software se refieren a las actividades necesarias para transformar los requerimientos de un usuario en un producto.
+- Existen varias formas a traves de las cuales se puede desarrollar software:
+  - Procesos Definidos o SECUENCIALES
+  - Procesos Empíricos
+
+- Procesos Secuenciales, también conocidos como Modelo Lineal o Ciclo de Vida del Software:
+  Es el conjunto de procesos por los que pasa el sistema desde q se concibe, se desarrolla y finalmente se retira del servicio a finalizar su uso. 
+  Las fases están estandarizadas, por lo que existe un marco de referencia que contiene los procesos, las actividades y las tareas involucradas en el desarrollo, explotación y mantenimiento de un producto, abarcando la vida del sistema.
+
+- Procesos Empíricos: 
+  Existe una ideología basada en principios empíricos que sirven de guia para el desarrollo de un producto, esta ideologia se llama Agile.
+  Se entiende por Agilidad a la gestión de proyectos basada en la adaptación continua, esto se refiere a que no se busca como objetivo principal obtener un producto final, sino un producto que pueda evolucionar y mejorarse continuamente.
+
+### CICLO DE VIDA DE UN SISTEMA (NUMERO 3)
+
+- Los sistemas informáticos poseen un ciclo de vida que deben cumplir, y son esenciales para las organizaciones, puesto que su óptimo funcionamiento depende de los datos y respaldos de información.
+- Los ciclos de vida, son las fases por las que debe pasar un sistema informático, en cuanto al análisis y el diseño para mantener la estructura y el funcionamiento de otro sistema desarrollado, tanto web como empresarial. 
+- Las fases son siete y son las siguientes:
+  - Fase de planificación: El primer paso es diseñar para poder implementar el sistema. Implica los objetivos, la metodología, el alcance que se espera con el proyecto, la designación de los roles o responsabilidades, el tiempo para cumplir las actividades, entre otros.
+  - Fase de análisis: Cuando el equipo de proyecto pasa la planificación y metodología que se pretende emplear, es cuando comienza el análisis. Aquí se concreta lo que es el ciclo de vida de un sistema y los requisitos necesarios para la implementación del nuevo proyecto.
+  - Fases de diseño: En esta fase se buscan las soluciones alternativas a las entradas y salidas del sistema, las cuales se evalúan y se escoge la más efectiva. Todo esto es enseñado a la parte gerencial de la empresa, de forma que estén enterados de la naturaleza del software (por ejemplo, si está basado en java, html...), características del hardware, las tareas relacionadas a tecnología que hay que realizar, entre otros. Básicamente es la parte gráfica del sistema operativo con el que interactúa el usuario.
+  - Fase de desarrollo: Esta es la fase que más repercusión tiene, puesto que es donde el proceso de transformación del sistema antiguo al sistema nuevo empieza. El cambio a partir de aquí es constante y no deja de evolucionar hasta que se termina.
+  - Fase de integración y periodo de prueba: El primero es la respuesta sobre la implementación y funcionalidad; el periodo de prueba permite evidenciar y certificar que el sistema funciona y cumple con los requisitos que el cliente había establecido.
+  - Fase de implementación: Es cuando se instala tanto el hardware como el software en el lugar correspondiente, creando las aplicaciones necesarias, realizando las pruebas y capacitaciones finales. 
+
+### (NUMERO 4)
+
+### MANIFIESTO AGIL (NUMERO 5)
+Son: métodos alternativos de trabajo definidos y resumidos en los siguientes postulados:
+
+Estamos descubriendo formas mejores de desarrollar software tanto por nuestra propia experiencia como ayudando a terceros. A través de este trabajo hemos aprendido a valorar:
+
+Individuos e interacciones sobre procesos y herramientas
+Software funcionando sobre documentación extensiva
+Colaboración con el cliente sobre negociación contractual
+Respuesta ante el cambio sobre seguir un plan
+
+### SCRUM - Definicion (NUMERO 6)
+Es un marco de trabajo a través del cual las personas pueden abordar problemas complejos adaptativos, a la vez que se entregan productos de forma eficiente y creativa con el máximo valor. SCRUM emplea un enfoque iterativo e incremental para optimizar la gestion de proyectos y practicas de desarrollo. En los equipos de SCRUM en vez de hacer una sola cosa a la vez, los integrantes hacen la mayor parte de el tiempo un poco de todo.
+
+Pilares
+
+● **_Transparencia:_** los aspectos significativos del proceso deben ser visibles para todos aquellos que son responsables del resultado. La transparencia requiere que dichos aspectos sean definidos en base a un estándar común, de tal modo que los observadores compartan un entendimiento común de lo que se están viendo.
+
+● **_Inspección:_** Los usuarios de Scrum deben inspeccionar frecuentemente los artefactos de Scrum y el progreso hacia un objetivo para detectar variaciones indeseadas. Su inspección no debe ser tan frecuente como para que pueda interferir en el trabajo. Son más beneficiosas cuando se realizan de forma diligente por inspectores expertos en el mismo lugar de trabajo.
+
+● **_Adaptación:_** Si un inspector determina que uno o más aspectos de un proceso se desvían de los límites aceptables y que el producto resultante será inaceptable, el proceso o el material que está siendo procesado deben ajustarse cuanto antes para minimizar desviaciones mayores.
+
 ### SPRINT (NUMERO 7)
 
 Concepto
@@ -17,29 +67,6 @@ Ciclo de vida de un Sprint
 Daily Scrum Metting.
 Sprint Review Metting.
 Sprint Retrospective Metting.**
-
-### CICLO DE VIDA DE UN SISTEMA (NUMERO 3)
-
-- Los sistemas informáticos poseen un ciclo de vida que deben cumplir, y son esenciales para las organizaciones, puesto que su óptimo funcionamiento depende de los datos y respaldos de información.
-- Los ciclos de vida, son las fases por las que debe pasar un sistema informático, en cuanto al análisis y el diseño para mantener la estructura y el funcionamiento de otro sistema desarrollado, tanto web como empresarial. 
-- Las fases son siete y son las siguientes:
-  - Fase de planificación: El primer paso es diseñar para poder implementar el sistema. Implica los objetivos, la metodología, el alcance que se espera con el proyecto, la designación de los roles o responsabilidades, el tiempo para cumplir las actividades, entre otros.
-  - Fase de análisis: Cuando el equipo de proyecto pasa la planificación y metodología que se pretende emplear, es cuando comienza el análisis. Aquí se concreta lo que es el ciclo de vida de un sistema y los requisitos necesarios para la implementación del nuevo proyecto.
-  - Fases de diseño: En esta fase se buscan las soluciones alternativas a las entradas y salidas del sistema, las cuales se evalúan y se escoge la más efectiva. Todo esto es enseñado a la parte gerencial de la empresa, de forma que estén enterados de la naturaleza del software (por ejemplo, si está basado en java, html...), características del hardware, las tareas relacionadas a tecnología que hay que realizar, entre otros. Básicamente es la parte gráfica del sistema operativo con el que interactúa el usuario.
-  - Fase de desarrollo: Esta es la fase que más repercusión tiene, puesto que es donde el proceso de transformación del sistema antiguo al sistema nuevo empieza. El cambio a partir de aquí es constante y no deja de evolucionar hasta que se termina.
-  - Fase de integración y periodo de prueba: El primero es la respuesta sobre la implementación y funcionalidad; el periodo de prueba permite evidenciar y certificar que el sistema funciona y cumple con los requisitos que el cliente había establecido.
-  - Fase de implementación: Es cuando se instala tanto el hardware como el software en el lugar correspondiente, creando las aplicaciones necesarias, realizando las pruebas y capacitaciones finales. 
-
-### SCRUM - Definicion (NUMERO 6)
-Es un marco de trabajo a través del cual las personas pueden abordar problemas complejos adaptativos, a la vez que se entregan productos de forma eficiente y creativa con el máximo valor. SCRUM emplea un enfoque iterativo e incremental para optimizar la gestion de proyectos y practicas de desarrollo. En los equipos de SCRUM en vez de hacer una sola cosa a la vez, los integrantes hacen la mayor parte de el tiempo un poco de todo.
-
-Pilares
-
-● **_Transparencia:_** los aspectos significativos del proceso deben ser visibles para todos aquellos que son responsables del resultado. La transparencia requiere que dichos aspectos sean definidos en base a un estándar común, de tal modo que los observadores compartan un entendimiento común de lo que se están viendo.
-
-● **_Inspección:_** Los usuarios de Scrum deben inspeccionar frecuentemente los artefactos de Scrum y el progreso hacia un objetivo para detectar variaciones indeseadas. Su inspección no debe ser tan frecuente como para que pueda interferir en el trabajo. Son más beneficiosas cuando se realizan de forma diligente por inspectores expertos en el mismo lugar de trabajo.
-
-● **_Adaptación:_** Si un inspector determina que uno o más aspectos de un proceso se desvían de los límites aceptables y que el producto resultante será inaceptable, el proceso o el material que está siendo procesado deben ajustarse cuanto antes para minimizar desviaciones mayores.
 
 ###  SCRUM: Developer Team (NUMERO 8)
 
@@ -79,6 +106,7 @@ _Ilustradores_ que dibujen gráficos, personajes para la web, etc.
 _Fotógrafos_ para sacarle fotos al equipo, a las oficinas, a los productos, etc y ponerlos en la página web.
 Nota: concepto abstraidos de la web de edTeam (https://ed.team/blog/cuales-son-los-roles-en-el-desarrollo-web)
 
+### (NUMERO 9)
 
 ###  PLANIFICACION DEL SPRINT (NUMERO 10)
 
@@ -104,7 +132,6 @@ En esta etapa deben estar presentes:
 
 Nota: El concepto principal de definicion de Planificacion de Sprint se extrajo de [Definicion de Planificacion de Sprint](https://www.ariadgroup.com/es/blog/todo-sobre-scrum-agile-metodologia/los-componentes-ceremonias-scrum-todos-detalles 
 
-
 ### SPRINT - CEREMONIAS (NUMERO 11)
 **Ceremonias que se realizan a lo largo del proyecto:**
 
@@ -128,8 +155,6 @@ Se produce también al finalizar el Sprint y tiene por objeto documentar qué ha
 
 Nota: Se extrajo informacion extra de: [Ariad: Las ceremonias de Scrum, todos los detalles](https://www.ariadgroup.com/es/blog/todo-sobre-scrum-agile-metodologia/los-componentes-ceremonias-scrum-todos-detalles)
 
-
-
 ### Artefactos (NUMERO 12)
 
 **_Pila de Producto_**
@@ -149,8 +174,6 @@ Este artefacto, pila de Sprint (Sprint Backlog), delimita el trabajo necesario p
 Un incremento de producto es un paso concreto que acerca el desarrollo al objetivo del producto. Cada incremento agrega valor al incremento anterior y bajo un proceso de verificación, se asegura que todos los incrementos trabajen bien juntos.
 
 Existe un compromiso entre el incremento y la Definición de Terminado (Definición de Hecho). Esta definición es una descripción formal del estado que debe alcanzar el incremento para cumplir con el nivel de calidad requerido para el producto. Si por alguna razón algún ítem de la pila de producto no cumple con la definición de terminado, no debe formar parte del entregable y ni siquiera ser presentado en la reunión de revisión de Sprint. En lugar de esto, debe volver a la pila de producto para ser considerado en un futuro.
-
-
 
 ### SPRINT REVIEW (NUMERO 13)
 
@@ -175,6 +198,7 @@ Todos los participantes debaten en base al análisis de cómo está el mercado y
 #### ●     Revisión del Release Plan
 Se revisa y actualiza el Release Plan o plan de entregas del producto y los cambios que hayan podido surgir, como cambios en el presupuesto y las capacidades de el/los equipo/s.
 
+### (NUMERO 14)
 
 ### ROLES EN EL EQUIPO (NUMERO 15)
 
