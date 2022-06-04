@@ -51,6 +51,17 @@ Git se puede ver como un set de herramientas muy completo, pero para un manejo b
 
 ● **_git clone_** , en el caso de necesitar "bajar" un repositorio remoto de algún proyecto ya existente se puede ejecutar este comando. Genera un directorio (con el nombre del repositorio o uno especificado explícitamente) que contiene todo lo propio al proyecto, además del subdirectorio .git necesario para poder gestionar los cambios y todo lo pertinente al repositorio Git.**
 
+## ¿Que es Github? (NUMERO 19)
+
+Voy a dejar dos conceptos; uno se trata del que está en el material de trabajo de la catedra, el segundo es de la web: xataka.com
+
+Se trata de una plataforma de Social Coding donde puedes publicar repositorios de código remoto que pueden trabajarse con el sistema de control de versiones Git, dado que está integrado.
+Este sistema te ofrece la posibilidad de colaborar en otros proyectos y publicar los tuyos propios.
+La plataforma es de código abierto por defecto, por lo que cualquier persona puede utilizar tu código y tu también puedes ver el código de otros proyectos.
+
+Se trata de una de las principales plataformas para crear proyectos abiertos de herramientas y aplicaciones, y se caracteriza sobre todo por sus funciones colaborativas que ayudan a que todos puedan aportar su granito de arena para mejorar el código.
+Como buen repositorio, el código de los proyectos que sean abiertos puede ser descargado y revisado por cualquier usuario, lo que ayuda a mejorar el producto y crear ramificaciones a partir de el. Y si prefieres que tu código no se vea, también pueden crearse proyectos privados.
+
 ## Github - Herramientas (NUMERO 20)
 
 ● **_issue_** , es una unidad de trabajo designada para realizar una mejora en un sistema informático. Puede  ser el arreglo de un fallo, una característica pedida, una tarea, una solicitud de documentación en específico y todo tipo de ideas o sugerencias al equipo de desarrollo. 
