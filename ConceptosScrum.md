@@ -29,8 +29,8 @@
   - Fase de integración y periodo de prueba: El primero es la respuesta sobre la implementación y funcionalidad; el periodo de prueba permite evidenciar y certificar que el sistema funciona y cumple con los requisitos que el cliente había establecido.
   - Fase de implementación: Es cuando se instala tanto el hardware como el software en el lugar correspondiente, creando las aplicaciones necesarias, realizando las pruebas y capacitaciones finales. 
 
-### (NUMERO 4)
-
+### AGILE - METODOLOGIAS AGILES (NUMERO 4)
+(------------------ Completar aqui !!! -------------)
 ### MANIFIESTO AGIL (NUMERO 5)
 Son: métodos alternativos de trabajo definidos y resumidos en los siguientes postulados:
 
@@ -106,8 +106,8 @@ _Ilustradores_ que dibujen gráficos, personajes para la web, etc.
 _Fotógrafos_ para sacarle fotos al equipo, a las oficinas, a los productos, etc y ponerlos en la página web.
 Nota: concepto abstraidos de la web de edTeam (https://ed.team/blog/cuales-son-los-roles-en-el-desarrollo-web)
 
-### (NUMERO 9)
-
+### SCRUM - CEREMONIAS (NUMERO 9)
+(--------------- Completar Aquí! --------------------------)
 ###  PLANIFICACION DEL SPRINT (NUMERO 10)
 
 **Definición**
@@ -199,6 +199,7 @@ Todos los participantes debaten en base al análisis de cómo está el mercado y
 Se revisa y actualiza el Release Plan o plan de entregas del producto y los cambios que hayan podido surgir, como cambios en el presupuesto y las capacidades de el/los equipo/s.
 
 ### (NUMERO 14)
+(------------ Agregar contenido Aquí! -----------------------)
 
 ### ROLES EN EL EQUIPO (NUMERO 15)
 
