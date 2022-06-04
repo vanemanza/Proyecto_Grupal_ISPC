@@ -107,7 +107,21 @@ _Fotógrafos_ para sacarle fotos al equipo, a las oficinas, a los productos, etc
 Nota: concepto abstraidos de la web de edTeam (https://ed.team/blog/cuales-son-los-roles-en-el-desarrollo-web)
 
 ### SCRUM - CEREMONIAS (NUMERO 9)
-(--------------- Completar Aquí! --------------------------)
+SPRINT - CEREMONIAS (NUMERO 11)
+Ceremonias que se realizan a lo largo del proyecto:
+
+● Sprint Planning Meeting: (reunión de planificación del sprint): Se produce al iniciar cada Sprint y tiene por objetivo decidir que se va a realizar en el Sprint. Para ello se reune al equipo scrum al completo, y los integrantes deben ponerse de acuerdo sobre el trabajo a realizar durante el sprint. El Product Owner selecciona y prioriza los elementos más importantes del Product Backlog, explicando cada uno de los elementos seleccionados y su importancia al equipo Scrum.
+
+● Daily Scrum Meeting: (reunión periódica). El también conocido como Daily Stand-Up. Se produce diariamente, y tiene un máximo de 20 min. de duracion Tiene por objeto tratar qué es lo que se hizo, qué se va a hacer y qué problemas se han encontrado,
+
+El también conocido como Daily Stand-Up, requiere también de la presencia del equipo scrum al completo. Se alienta al equipo a reunir de pie, para que la reunión no tarde más de lo necesario. En este tipo de reunión se pretende informar de manera rápida al resto del equipo sobre el progreso de cada miembro del equipo. Cada persona debe de forma concisa y concreta responder las siguientes preguntas con el fin de encontrar soluciones diariamente. ¿Qué hiciste ayer? ¿En qué trabajarás hoy? ¿Qué obstáculos han surgido? Estas reuniones ayudan a incrementar la responsabilidad dentro del grupo scrum, a elevar la eficiencia, y el progreso del equipo. Además, mediante estas reuniones el Scrum Master, puede conocer las necesidades y los obstáculos a los que se enfrenta el equipo. Es importante que todos los miembros escuchen a los demás.
+
+● Sprint Review Meeting: (reunión de revisión del Sprint): Se produce al finalizar el Sprint y tiene por objeto mostrar qué es lo que se ha completado y qué no. Debe estar presente el Product Owner y de la presencia de todo el equipo. La diferencia radica, en que a esta ceremonia, también pueden asistir otras partes interesadas. Este momento es especialmente importante, para recibir retro-alimentación del cliente y del usuario, feedback, del que el Product Owner a su vez tomará nota, para incorporarlo en el Product Backlog (y así incorporarlo al siguiente sprint).
+
+● Sprint Retrospective Meeting: (reunión de retrospectiva del Sprint): Se produce también al finalizar el Sprint y tiene por objeto documentar qué ha funcionado y qué no ha funcionado en el Sprint. La idea de dicha reunión es centrar al equipo en lo que salió bien y en lo que debe mejorar para la próxima iteración. De ninguna manera se centra en lo que salió mal.
+
+Nota: Se extrajo informacion extra de: Ariad: Las ceremonias de Scrum, todos los detalles. (https://www.ariadgroup.com/es/blog/todo-sobre-scrum-agile-metodologia/los-componentes-ceremonias-scrum-todos-detalles).
+
 ###  PLANIFICACION DEL SPRINT (NUMERO 10)
 
 **Definición**
@@ -130,33 +144,46 @@ En esta etapa deben estar presentes:
 - Product Owner
 - Developer Team
 
-Nota: El concepto principal de definicion de Planificacion de Sprint se extrajo de [Definicion de Planificacion de Sprint](https://www.ariadgroup.com/es/blog/todo-sobre-scrum-agile-metodologia/los-componentes-ceremonias-scrum-todos-detalles 
+Nota: El concepto principal de definicion de Planificacion de Sprint se extrajo de [Definicion de Planificacion de Sprint](https://www.ariadgroup.com/es/blog/todo-sobre-scrum-agile-metodologia/los-componentes-ceremonias-scrum-todos-detalles)
 
-### SPRINT - CEREMONIAS (NUMERO 11)
-**Ceremonias que se realizan a lo largo del proyecto:**
+### SPRINT- DAILY SCRUM (NUMERO 11)
 
-● **_Sprint Planning Meeting:_** (reunión de planificación del sprint): Se produce al iniciar cada
-Sprint y tiene por objetivo decidir que se va a realizar en el Sprint. Para ello se reune al equipo scrum al completo, y los integrantes deben ponerse de acuerdo sobre el trabajo a realizar durante el sprint. El Product Owner selecciona y prioriza los elementos más importantes del Product Backlog, explicando cada uno de los elementos seleccionados y su importancia al equipo Scrum.
+El Daily Scrum (o Scrum diario) es uno de los 5 eventos de Scrum con un bloque de tiempo de 15 minutos para que los Developers se sincronicen.
+Esta reunión diaria se realiza a la misma hora y en el mismo lugar para reducir la complejidad. Aquí se busca la transparencia y la inspección de lo realizado para tener una oportunidad de adaptación para el día siguiente.
 
-● **_Daily Scrum Meeting:_** (reunión periódica).
-El también conocido como Daily Stand-Up. Se produce diariamente, y tiene un máximo de 20 min. de duración. Tiene por objeto tratar qué es lo que se hizo, qué se va a hacer y qué problemas se han encontrado, 
+**Objetivo**
 
-El también conocido como Daily Stand-Up, requiere también de la presencia del equipo scrum al completo. Se alienta al equipo a reunirse de pie, para que la reunión no tarde más de lo necesario. En este tipo de reunión se pretende informar de manera rápida al resto del equipo sobre el progreso de cada miembro del equipo. Cada persona debe de forma concisa y concreta responder las siguiente preguntas con el fin de encontrar soluciones diariamente.
-¿Qué hiciste ayer?
-¿En qué trabajarás hoy?
-¿Qué obstáculos han surgido?
-Estas reuniones ayudan a incrementar la responsabilidad dentro del grupo scrum, a elevar la eficiencia, y el progreso del equipo. Además, mediante estas reuniones el Scrum Master, puede conocer las necesidades y los obstáculos a los que se enfrenta el equipo. Es importante que todos los miembros escuchen a los demás, y no desviarse del tema, ni sobrepasar el tiempo máximo.
+El propósito de la Daily Scrum es inspeccionar el progreso hacia el Objetivo del Sprint y adaptar el Sprint Backlog según sea necesario. Se busca que los Developers logren sincronizarse. Para ello se planea el trabajo de las siguientes 24 horas.Esto optimiza la colaboración y el desempeño del equipo inspeccionando el trabajo avanzado desde el último Daily Scrum Meeting y haciendo una proyección del trabajo restante del Sprint.Los Developers usan el Daily Scrum para evaluar su progreso hacia el Sprint Goal y para evaluar qué tendencia sigue este progreso hacia la finalización del trabajo del Sprint en curso.Ya que la reunión tiene un timebox de solo 15 minutos cada persona debe realizar una breve síntesis de lo que cree más importante para lograr sincronizarse con el resto de sus compañeros.
 
-● **_Sprint Review Meeting:_**(reunión de revisión del Sprint): Se produce al finalizar el Sprint y
-tiene por objeto mostrar qué es lo que se ha completado y qué no. Debe estar presente el Product Owner y de la presencia de todo el equipo. La diferencia radica, en que a esta ceremonia, también pueden asistir otras partes interesadas. Este momento es especialmente importante, para recibir retro-alimentación del cliente y del usuario, feedback, del que el Product Owner a su vez tomará nota, para incorporarlo en el Product Backlog (y así incoporarlo al siguiente sprint).
+**Participantes**
 
-● **_Sprint Retrospective Meeting:_**(reunión de retrospectiva del Sprint):
-Se produce también al finalizar el Sprint y tiene por objeto documentar qué ha funcionado y qué no ha funcionado en el Sprint. La idea de dicha reunión es centrar al equipo en lo que salió bien y en lo que debe mejorar para la próxima iteración. De ninguna manera se centra en lo que salió mal.
+La Daily Scrum es una evento interna de los Develoeprs. Si el Product Owner o el Scrum Master están trabajando activamente en elementos del Sprint Backlog, participan como Developers.Si otras personas están presentes, el Scrum Master se asegura de que no interrumpan con el objetivo de la reunión.
+Las personas ajenas a los Developers pueden asistir a esta reunión diaria de sincronización por invitación de ellos. Los Developers pueden desear considerar que hay un espíritu de transparencia en Scrum. Pero, por otro lado, los extraños pueden influir en la reunión por su propia presencia. En cualquier caso, solo los Developers participan activamente en la reunión. Esto se aplica tanto al Product Owner como a cualquier otra persona que no sean los Developers
 
-Nota: Se extrajo informacion extra de: [Ariad: Las ceremonias de Scrum, todos los detalles](https://www.ariadgroup.com/es/blog/todo-sobre-scrum-agile-metodologia/los-componentes-ceremonias-scrum-todos-detalles)
+**Daily Scrum - 3 preguntas**
 
-### Artefactos (NUMERO 12)
+Una técnica popular es que cada persona de los Developers conteste las siguientes 3 preguntas en 2 a 3 minutos por integrante, a modo de agenda para optimizar la eficiencia del tiempo:
 
+¿Qué hice ayer para ayudar a lograr el Sprint Goal (Objetivo del Sprint)?
+¿Qué voy a hacer hoy para ayudar a lograr el Sprint Goal?
+¿Veo algún impedimento que evite que el resto de Developers o yo logremos el Sprint Goal?
+Cabe destacar que esas 3 preguntas son solo un ejemplo de cómo llevar a cabo dicho este evento. Los Developers son los encargados de establecer la estructura de la reunión y esta se puede conducir de diferentes maneras siempre y cuando se enfoque en el progreso hacia el Sprint Goal.
+
+Existe tambien  **Daily Scrum- 1 pregunta** que se basa en que los desarrolladores solo se concentren en responder una unica pregunta, la cual fomenta a  cumplir de mejor forma el objetivo del Sprint.
+
+El rol del Scrum Master es que el sprint Daily  Scrum se realice en tiempo y forma.
+
+**Beneficios de Daily Scrum**
+Optimización: El Daily Scrum meeting optimiza las posibilidades de que los Developers cumplan con el Sprint Goal.
+Reduce tiempo perdido: Los Developers hacen visibles los impedimentos diariamente.
+Mejora la coordinación: Ayuda a encontrar oportunidades de coordinación porque todos saben en qué están trabajando los demás.
+Promueve el intercambio de conocimientos: el Daily Scrum identifica lagunas de conocimiento y permite el crecimiento del equipo.
+Fortalece la cultura: Lo realiza a través de rituales compartidos y la participación activa.
+Aumenta la productividad: permite ganar eficiencia en el proceso
+
+Nota: El concepto principal de Daily Scrum se extrajo de [¿Qué es Daily Scrum?] (https://ittude.com.ar/b/scrum/que-es-la-daily-scrum/#:~:text=El%20Daily%20Scrum%20(o%20Scrum,lugar%20para%20reducir%20la%20complejidad.)
+
+### ARTEFACTOS (NUMERO 12)
 **_Pila de Producto_**
 
 La Pila de Producto (Product Backlog) es una lista ordenada. Cada una de las entradas de esta lista son posibles trabajos a seleccionarse para su realización durante una reunión de planificación de Sprint . El refinamiento de los ítems de la pila de producto es el acto de convertir esos ítems en elementos más detallados y precisos, en este proceso también se les asigna una prioridad y un “tamaño”.
