@@ -2,6 +2,22 @@
 
 ## Archivo para subir las definiciones que hemos marcado como Issues en el repositorio, para así evitar la modificación del README.
 
+### SPRINT (NUMERO 7)
+
+Concepto
+
+Es un periodo de corta duración que debe finalizar con un prototipo operativo o producto parcialmente entregable. El mismo se repite un numero n de veces a lo largo del proyecto y permite hacer entregas de producto en partes, donde cada entrega, es un incremento de funcionalidad respecto al anterior.
+
+Otro concepto nos dice que, se puede considerar al Sprint como un mini-proyecto que no durará más de un mes. Al igual que los proyectos, los Sprints se utilizan para lograr algo. Cada Sprint cuenta con una definición de los que se va a construir, un diseño y un plan flexible que guiará la construcción del plan, el trabajo y el producto resultante.
+
+Ciclo de vida de un Sprint
+
+**- Sprint Planning Metting.
+
+Daily Scrum Metting.
+Sprint Review Metting.
+Sprint Retrospective Metting.**
+
 ### CICLO DE VIDA DE UN SISTEMA (NUMERO 3)
 
 - Los sistemas informáticos poseen un ciclo de vida que deben cumplir, y son esenciales para las organizaciones, puesto que su óptimo funcionamiento depende de los datos y respaldos de información.
