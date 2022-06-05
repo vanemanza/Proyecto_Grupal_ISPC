@@ -270,8 +270,34 @@ Todos los participantes debaten en base al análisis de cómo está el mercado y
 #### ●     Revisión del Release Plan
 Se revisa y actualiza el Release Plan o plan de entregas del producto y los cambios que hayan podido surgir, como cambios en el presupuesto y las capacidades de el/los equipo/s.
 
-### (NUMERO 14)
-(------------ Agregar contenido Aquí! -----------------------)
+### SPRINT RETROSPECTIVE (NUMERO 14)
+
+El sprint retrospective meeting (retrospectiva) es el último evento en un Sprint en Scrum. Es una oportunidad para el equipo de inspeccionarse a sí mismo, y crear un plan de mejora que se pondrá en marcha inmediatamente, en el siguiente Sprint.
+
+#### **_¿Cuál es el objetivo de la retrospectiva?_**
+
+El objetivo de un sprint retrospective meeting es, básicamente, mejorar: mejorar la productividad, mejorar las habilidades del equipo, mejorar la calidad del producto. En resumen, el objetivo es mejorar la aplicación de Scrum.
+Otro objetivo es hacer foco en el equipo, analizando cómo trabajamos y cómo nos relacionamos, para buscar posibles mejoras que el mismo equipo aplicará.
+
+#### **_¿En qué consiste?_**
+
+Previo a la sesión, cada miembro del equipo debe hablar de los siguientes puntos:
+
+•Qué ha funcionado bien en el último Sprint.
+•Cuáles cosas hay que mejorar de cara al siguiente Sprint.
+•Problemas que haya tenido para poder progresar correctamente en el último Sprint.
+•Recomendaciones a aplicar en el siguiente Sprint.
+Al realizarse después del Sprint Review, podemos incorporar el feedback que hayamos obtenido dentro de los puntos a hablar.
+
+#### **_¿Quiénes deben participar?_**
+
+Debe participar el equipo completo de Scrum, no existen distinciones entre todos los miembros del equipo.
+
+#### **_Beneficios_**
+
+El sprint retrospective incrementa la calidad del producto, además de aumentar considerablemente el aprendizaje dentro de los miembros del equipo.
+En cada Sprint, todos los Sprints terminan con el Sprint Retrospective, sin excepción.
+
 
 ### ROLES EN EL EQUIPO (NUMERO 15)
 
