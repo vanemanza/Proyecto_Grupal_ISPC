@@ -30,7 +30,15 @@
   - Fase de implementación: Es cuando se instala tanto el hardware como el software en el lugar correspondiente, creando las aplicaciones necesarias, realizando las pruebas y capacitaciones finales. 
 
 ### AGILE - METODOLOGIAS AGILES (NUMERO 4)
-(------------------ Completar aqui !!! -------------)
+
+Agile es considerada una metodología pero, en realidad, es más que eso: es una filosofía. De trabajo, sí, pero también de vida o del comportamiento. En su definición y forma subyace un modo de hacer, basado en la partición o desmembramiento de las tareas. Es un probar y hacer, errar, probar y hacer, seguir. Es decir, un proceso iterativo.
+
+¿Dónde se originó el enfoque ágil?
+Los enfoques ágiles de trabajo se crearon para abordar las limitaciones del método en cascada, que se derivaba del sistema de cadena de montaje de 1913 que utilizó Henry Ford como método de fabricación, y que luego se aplicó al desarrollo de software. Desde su origen en 2001, el desarrollo ágil pisa fuerte en el sector de los sistemas de software y la gestión de proyectos, a pesar de sus múltiples variantes.
+
+El enfoque ágil surgió cuando muchos desarrolladores de software notaron que los ciclos de producción y los métodos de colaboración del modelo en cascada no daban los resultados esperados. Para comienzos de la década de los 90, este problema se había generalizado, ya que era común que transcurrieran varios años entre la aparición de una necesidad empresarial justificada y la distribución de una aplicación en funcionamiento. Eran tantos los cambios que podían sufrir las demandas empresariales y los mercados durante esos años, que posiblemente se cancelarían partes importantes de los proyectos de software antes de poder distribuirse. El desperdicio de tiempo y recursos llevó a que varios desarrolladores de software buscaran una alternativa de trabajo.
+
+
 ### MANIFIESTO AGIL (NUMERO 5)
 Son: métodos alternativos de trabajo definidos y resumidos en los siguientes postulados:
 
