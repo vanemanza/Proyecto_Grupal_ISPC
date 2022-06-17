@@ -30,6 +30,11 @@
 
 4) Para subir los cambios locales al repositorio remoto (GitHub):
 
+- git status ( compruebo los cambios, aparecen en rojo )
+- git add . ( subo todos los cambios a la staging area) ó 
+- git add **nombre del archivo** ( subo solo el o los archivos que elijo )
+- git status ( es opcional, pero recomendable volver a corroborar, aparecen los cambios en la staging area en verde)
+- git commit -m "**mensaje informativo**"
 - git push ( si ya he subido algo antes )
 - git push --set-upstream origin **nombre_de_la_rama** ( si es la primera vez que lo hago )
 
