@@ -1,19 +1,5 @@
 # Proyecto para el grupo de estudio del ISPC 
 
-## Metodologías Agiles y Gestión de Proyectos
-
-## Integrantes:
-* Danna Deyse Cruz
-* Viviana Lucia Bianco 
-* María Fernanda Caro Pómpolo
-* Vanesa Manzanelli 
-* Maria Cuenca
-* Braian Arana
-* Lucchesi Tevez Erika Dayana
-* Pablo Casarella
-* Yamil Gaston Diaz 
-* Flavio Andrés Palacios
-
 ## Pasos para clonar el repositorio de GitHub
 
 1) En la página principal del archivo, ir a la pestaña **Code**, verificar que estén en la rama **main**, buscar el botón Code y desplegar. Se abre una ventanita con tres opciones: HTTPS, SSH y GitHubCLI. Posicionarse en HTTPS Y copiar la dirección del repositorio (Ej: git@github.com:**tu_nombre_usuario**/Proyecto_Grupal_ISPC.git), que luego se usará seguido del comando git clone.
